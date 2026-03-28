@@ -1,0 +1,12 @@
+21:29:18: Main    : before creating thread
+21:29:18: Main   : before running thread
+21:29:18: Thread 1: starting
+21:29:18: Main   : wait for the thread to finish
+21:29:18: Main   : all done
+21:29:20: Thread 1: finishing
+21:30:23: Main    : before creating thread
+21:30:23: Main   : before running thread
+21:30:23: Thread 1: starting
+21:30:23: Main   : wait for the thread to finish
+21:30:23: Main   : all done
+21:30:25: Thread 1: finishing
